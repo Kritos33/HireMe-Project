@@ -1,0 +1,26 @@
+img{
+    width:300px;
+}
+body{
+    background-image:url("https://images.unsplash.com/photo-1514477917009-389c76a86b68?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80");
+}
+h2{
+   color:red;
+   font-family: 'Special Elite', cursive;
+}
+h1{
+  font-family: 'Bangers', cursive;
+  color:white;   
+}
+p{
+  font-family: 'Short Stack', cursive; 
+  color:black;
+}
+ul{
+  font-family: 'Short Stack', cursive; 
+  color:black;
+}
+ol{
+  font-family: 'Short Stack', cursive;
+  color:pink;
+}
